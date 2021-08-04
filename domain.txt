@@ -2,3 +2,4 @@ jd.com
 taobao.com
 baidu.com
 ansell.com
+aliyun.com
